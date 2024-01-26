@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "k8Test", "k8Test.csproj", "{A62C06D3-6F3E-4CBC-BD12-FE83C654B63E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A62C06D3-6F3E-4CBC-BD12-FE83C654B63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62C06D3-6F3E-4CBC-BD12-FE83C654B63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62C06D3-6F3E-4CBC-BD12-FE83C654B63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62C06D3-6F3E-4CBC-BD12-FE83C654B63E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {276D176C-9939-4A91-AA11-E1FB7B4D8F16}
+	EndGlobalSection
+EndGlobal
